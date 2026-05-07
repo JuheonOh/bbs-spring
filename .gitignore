@@ -1,4 +1,6 @@
 ### Eclipse ###
+.idea/
+target/
 .metadata
 bin/
 tmp/
